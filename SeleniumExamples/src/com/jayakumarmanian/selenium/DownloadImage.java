@@ -9,6 +9,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+/**
+ * @author Jayakumar Manian
+ *
+ */
 public class DownloadImage {
 
 	public static void main(String[] args) throws InterruptedException, IOException {

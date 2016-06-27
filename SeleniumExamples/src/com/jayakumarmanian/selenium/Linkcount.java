@@ -8,6 +8,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.MarionetteDriver;
 
+/**
+ * @author Jayakumar Manian
+ *
+ */
 public class Linkcount {
 
 	public static void main(String[] args) throws InterruptedException {
