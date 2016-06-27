@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jayakumarmanian.selenium;
+package selenium.webdriver.examples;
 
 import java.io.File;
 

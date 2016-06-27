@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jayakumarmanian.selenium;
+package selenium.webdriver.examples;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
