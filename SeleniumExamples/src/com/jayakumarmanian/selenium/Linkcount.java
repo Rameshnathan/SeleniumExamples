@@ -1,4 +1,4 @@
-package com.smartplough.selenium;
+package com.jayakumarmanian.selenium;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
