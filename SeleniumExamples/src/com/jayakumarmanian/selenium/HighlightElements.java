@@ -35,6 +35,7 @@ public class HighlightElements {
 		 
 		// Call reuse method
 		highLightElement(driver,username);
+		
 		driver.close();
 		 
 		}
