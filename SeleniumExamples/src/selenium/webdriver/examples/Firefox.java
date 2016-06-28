@@ -51,6 +51,7 @@ public class Firefox {
 
 		// Closing the browser and webdriver
 		webDriver.close();
+		//Ramesh
 		webDriver.quit();
 		}
 
